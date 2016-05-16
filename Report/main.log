@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  16 MAY 2016 17:45
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  16 MAY 2016 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1089,185 +1089,203 @@ LaTeX Info: Redefining \persianfont on input line 16.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
 (Font)              scaled to size 11.99997pt on input line 16.
 \c@mypagecount=\count184
-(./main.aux (./firstPage.aux) (./introduction.aux) (./imageCaptioning.aux)
+(./main.aux (./firstPage.aux) (./introduction.aux) (./sceneUnderstanding.aux)
 (./introduction.aux
 
-LaTeX Warning: Label `footdir@49' multiply defined.
+LaTeX Warning: Label `footdir@71' multiply defined.
 
 
-LaTeX Warning: Label `footdir@51' multiply defined.
+LaTeX Warning: Label `footdir@73' multiply defined.
 
 
-LaTeX Warning: Label `footdir@53' multiply defined.
+LaTeX Warning: Label `footdir@75' multiply defined.
 
 
-LaTeX Warning: Label `footdir@55' multiply defined.
+LaTeX Warning: Label `footdir@77' multiply defined.
 
 
-LaTeX Warning: Label `footdir@57' multiply defined.
+LaTeX Warning: Label `footdir@85' multiply defined.
 
 
-LaTeX Warning: Label `footdir@63' multiply defined.
+LaTeX Warning: Label `footdir@72' multiply defined.
 
 
-LaTeX Warning: Label `footdir@50' multiply defined.
+LaTeX Warning: Label `footdir@74' multiply defined.
 
 
-LaTeX Warning: Label `footdir@52' multiply defined.
+LaTeX Warning: Label `footdir@76' multiply defined.
 
 
-LaTeX Warning: Label `footdir@54' multiply defined.
+LaTeX Warning: Label `footdir@78' multiply defined.
 
 
-LaTeX Warning: Label `footdir@56' multiply defined.
+LaTeX Warning: Label `footdir@81' multiply defined.
 
 
-LaTeX Warning: Label `footdir@58' multiply defined.
+LaTeX Warning: Label `footdir@79' multiply defined.
 
 
-LaTeX Warning: Label `footdir@59' multiply defined.
+LaTeX Warning: Label `footdir@83' multiply defined.
 
 
-LaTeX Warning: Label `footdir@61' multiply defined.
+LaTeX Warning: Label `footdir@86' multiply defined.
 
 
-LaTeX Warning: Label `footdir@64' multiply defined.
+LaTeX Warning: Label `footdir@88' multiply defined.
 
 
-LaTeX Warning: Label `footdir@60' multiply defined.
+LaTeX Warning: Label `footdir@80' multiply defined.
 
 
-LaTeX Warning: Label `footdir@62' multiply defined.
-
-) (./introduction.aux
-
-LaTeX Warning: Label `footdir@49' multiply defined.
+LaTeX Warning: Label `footdir@82' multiply defined.
 
 
-LaTeX Warning: Label `footdir@51' multiply defined.
+LaTeX Warning: Label `footdir@84' multiply defined.
 
 
-LaTeX Warning: Label `footdir@53' multiply defined.
-
-
-LaTeX Warning: Label `footdir@55' multiply defined.
-
-
-LaTeX Warning: Label `footdir@57' multiply defined.
-
-
-LaTeX Warning: Label `footdir@63' multiply defined.
-
-
-LaTeX Warning: Label `footdir@50' multiply defined.
-
-
-LaTeX Warning: Label `footdir@52' multiply defined.
-
-
-LaTeX Warning: Label `footdir@54' multiply defined.
-
-
-LaTeX Warning: Label `footdir@56' multiply defined.
-
-
-LaTeX Warning: Label `footdir@58' multiply defined.
-
-
-LaTeX Warning: Label `footdir@59' multiply defined.
-
-
-LaTeX Warning: Label `footdir@61' multiply defined.
-
-
-LaTeX Warning: Label `footdir@64' multiply defined.
-
-
-LaTeX Warning: Label `footdir@60' multiply defined.
-
-
-LaTeX Warning: Label `footdir@62' multiply defined.
+LaTeX Warning: Label `footdir@87' multiply defined.
 
 ) (./introduction.aux
 
-LaTeX Warning: Label `footdir@49' multiply defined.
+LaTeX Warning: Label `footdir@71' multiply defined.
 
 
-LaTeX Warning: Label `footdir@51' multiply defined.
+LaTeX Warning: Label `footdir@73' multiply defined.
 
 
-LaTeX Warning: Label `footdir@53' multiply defined.
+LaTeX Warning: Label `footdir@75' multiply defined.
 
 
-LaTeX Warning: Label `footdir@55' multiply defined.
+LaTeX Warning: Label `footdir@77' multiply defined.
 
 
-LaTeX Warning: Label `footdir@57' multiply defined.
+LaTeX Warning: Label `footdir@85' multiply defined.
 
 
-LaTeX Warning: Label `footdir@63' multiply defined.
+LaTeX Warning: Label `footdir@72' multiply defined.
 
 
-LaTeX Warning: Label `footdir@50' multiply defined.
+LaTeX Warning: Label `footdir@74' multiply defined.
 
 
-LaTeX Warning: Label `footdir@52' multiply defined.
+LaTeX Warning: Label `footdir@76' multiply defined.
 
 
-LaTeX Warning: Label `footdir@54' multiply defined.
+LaTeX Warning: Label `footdir@78' multiply defined.
 
 
-LaTeX Warning: Label `footdir@56' multiply defined.
+LaTeX Warning: Label `footdir@81' multiply defined.
 
 
-LaTeX Warning: Label `footdir@58' multiply defined.
+LaTeX Warning: Label `footdir@79' multiply defined.
 
 
-LaTeX Warning: Label `footdir@59' multiply defined.
+LaTeX Warning: Label `footdir@83' multiply defined.
 
 
-LaTeX Warning: Label `footdir@61' multiply defined.
+LaTeX Warning: Label `footdir@86' multiply defined.
 
 
-LaTeX Warning: Label `footdir@64' multiply defined.
+LaTeX Warning: Label `footdir@88' multiply defined.
 
 
-LaTeX Warning: Label `footdir@60' multiply defined.
+LaTeX Warning: Label `footdir@80' multiply defined.
 
 
-LaTeX Warning: Label `footdir@62' multiply defined.
+LaTeX Warning: Label `footdir@82' multiply defined.
+
+
+LaTeX Warning: Label `footdir@84' multiply defined.
+
+
+LaTeX Warning: Label `footdir@87' multiply defined.
+
+) (./introduction.aux
+
+LaTeX Warning: Label `footdir@71' multiply defined.
+
+
+LaTeX Warning: Label `footdir@73' multiply defined.
+
+
+LaTeX Warning: Label `footdir@75' multiply defined.
+
+
+LaTeX Warning: Label `footdir@77' multiply defined.
+
+
+LaTeX Warning: Label `footdir@85' multiply defined.
+
+
+LaTeX Warning: Label `footdir@72' multiply defined.
+
+
+LaTeX Warning: Label `footdir@74' multiply defined.
+
+
+LaTeX Warning: Label `footdir@76' multiply defined.
+
+
+LaTeX Warning: Label `footdir@78' multiply defined.
+
+
+LaTeX Warning: Label `footdir@81' multiply defined.
+
+
+LaTeX Warning: Label `footdir@79' multiply defined.
+
+
+LaTeX Warning: Label `footdir@83' multiply defined.
+
+
+LaTeX Warning: Label `footdir@86' multiply defined.
+
+
+LaTeX Warning: Label `footdir@88' multiply defined.
+
+
+LaTeX Warning: Label `footdir@80' multiply defined.
+
+
+LaTeX Warning: Label `footdir@82' multiply defined.
+
+
+LaTeX Warning: Label `footdir@84' multiply defined.
+
+
+LaTeX Warning: Label `footdir@87' multiply defined.
 
 ))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 59.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 58.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 58.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 59.
+(Font)              scaled to size 14.39996pt on input line 58.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 59.
+Package hyperref Info: Link coloring OFF on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1277,9 +1295,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -1320,34 +1338,11 @@ LaTeX Info: Redefining \nameref on input line 59.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `firstPage.aux'.
-
-(./firstPage.tex
-File: /home/asadi/Documents/Latex/Imgs/fa_aut_with_name.png Graphic file (type 
-QTm)
-
-<use  "/home/asadi/Documents/Latex/Imgs/fa_aut_with_name.png" >
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 24.88794pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 24.88794pt on input line 16.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 19.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 25.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 20.73593pt on input line 27.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 30.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
-
-)
-[1
-
-
-] (./main.toc
+(Font)              scaled to size 20.73593pt on input line 63.
+(./main.toc
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
 (Font)              scaled to size 14.39996pt on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1360,7 +1355,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+[1
+
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1402,116 +1403,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
 [][]
  []
 
-[2
-
-
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=686.7347pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-\openout2 = `introduction.aux'.
-
- (./introduction.tex
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 17.27994pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 6.
-
-
-LaTeX Warning: Reference `footdir@1' on page 1 undefined on input line 6.
-
-
-LaTeX Warning: Reference `footdir@2' on page 1 undefined on input line 6.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 6.
-
-LaTeX Warning: Reference `footdir@3' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@4' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@5' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@6' on page 1 undefined on input line 8.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@7' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@8' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@9' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@10' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@11' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@12' on page 1 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@13' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@14' on page 1 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@15' on page 1 undefined on input line 15.
-
 [1
 
 
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=686.7347pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-])
-
-LaTeX Warning: Reference `footdir@16' on page 2 undefined on input line 72.
-
-[2]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1545,11 +1472,13 @@ LaTeX Warning: Reference `footdir@16' on page 2 undefined on input line 72.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 [][]
  []
 
-[3
+[12
+
+
 
 
 
@@ -1586,13 +1515,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--74
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `imageCaptioning.aux'.
+\openout2 = `sceneUnderstanding.aux'.
 
- (./imageCaptioning.tex) [3
+ (./sceneUnderstanding.tex
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 1.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
+(Font)              scaled to size 17.27994pt on input line 1.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 17.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[][]
+ []
+
+Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+[12
 
 
 
-]
+] [13]
+File: ./Imgs/farhadi2010every_fig1.png Graphic file (type QTm)
+ <use  "./Imgs/farhadi2010every_fig1.png" >
+Overfull \hbox (25.7028pt too wide) in paragraph at lines 52--55
+ [][][][][] 
+ []
+
+
+LaTeX Warning: Citation `Farhadi2010every.' on page 14 undefined on input line 
+55.
+
+
+LaTeX Warning: Citation `Farhadi2010every.' on page 14 undefined on input line 
+55.
+
+File: ./Imgs/farhadi2010every_fig2.png Graphic file (type QTm)
+<use  "./Imgs/farhadi2010every_fig2.png" >
+Overfull \hbox (16.56873pt too wide) in paragraph at lines 64--67
+ [][][][][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14]) [15]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1626,11 +1601,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--74
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 [][]
  []
 
-[4
+[16
 
 
 
@@ -1667,69 +1642,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `introduction.aux'.
-
- (./introduction.tex
-
-LaTeX Warning: Reference `footdir@17' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Reference `footdir@18' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Reference `footdir@19' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@20' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@21' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@22' on page 4 undefined on input line 8.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@23' on page 4 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@24' on page 4 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@25' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@26' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@27' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@28' on page 4 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@29' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@30' on page 4 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@31' on page 4 undefined on input line 15.
-
-[4
-
-
-
-])
-
-LaTeX Warning: Reference `footdir@32' on page 5 undefined on input line 78.
-
-[5]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1763,11 +1675,13 @@ LaTeX Warning: Reference `footdir@32' on page 5 undefined on input line 78.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [][]
  []
 
-[6
+[12
+
+
 
 
 
@@ -1804,69 +1718,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--80
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `introduction.aux'.
-
- (./introduction.tex
-
-LaTeX Warning: Reference `footdir@33' on page 6 undefined on input line 6.
-
-
-LaTeX Warning: Reference `footdir@34' on page 6 undefined on input line 6.
-
-
-LaTeX Warning: Reference `footdir@35' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@36' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@37' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Reference `footdir@38' on page 6 undefined on input line 8.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@39' on page 6 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@40' on page 6 undefined on input line 10.
-
-
-LaTeX Warning: Reference `footdir@41' on page 6 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@42' on page 6 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@43' on page 6 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@44' on page 6 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@45' on page 6 undefined on input line 11.
-
-
-LaTeX Warning: Reference `footdir@46' on page 6 undefined on input line 11.
-
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-
-LaTeX Warning: Reference `footdir@47' on page 6 undefined on input line 15.
-
-[6
-
-
-
-])
-
-LaTeX Warning: Reference `footdir@48' on page 7 undefined on input line 81.
-
-[7]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1900,11 +1751,13 @@ LaTeX Warning: Reference `footdir@48' on page 7 undefined on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 [][]
  []
 
-[8
+[12
+
+
 
 
 
@@ -1941,27 +1794,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--83
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `introduction.aux'.
-
- (./introduction.tex
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
-Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=parsidigits;!
- [8
+ (./main.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+ [12
 
 
 
-]) [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
- (./main.aux (./firstPage.aux)
-(./introduction.aux) (./imageCaptioning.aux) (./introduction.aux)
-(./introduction.aux) (./introduction.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 88.
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+ (./main.aux (./firstPage.aux) (./introduction.aux)
+(./sceneUnderstanding.aux) (./introduction.aux) (./introduction.aux)
+(./introduction.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 89.
 
 
 LaTeX Warning: There were undefined references.
@@ -1969,15 +1814,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 23031 strings out of 493918
- 427419 string characters out of 6150563
- 510761 words of memory out of 5000000
- 25984 multiletter control sequences out of 15000+600000
- 7216 words of font info for 84 fonts, out of 8000000 for 9000
+ 23055 strings out of 493918
+ 427660 string characters out of 6150563
+ 509781 words of memory out of 5000000
+ 26016 multiletter control sequences out of 15000+600000
+ 7200 words of font info for 82 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,8n,47p,10452b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,8n,47p,10452b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (11 pages).

@@ -17,7 +17,8 @@
 %\fontsize{14}{20}\selectfont
 \linespread{1.5}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\includeonly{imageCaptioning}
+%\includeonly{introduction}
+\includeonly{sceneUnderstanding}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\enfootnote}[1]{\LTRfootnote{\lr{#1}}}
 
@@ -53,26 +54,24 @@
 \newpage
 }
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \pagenumbering{gobble}
-
 \include{firstPage}
 \newpage
 \pagenumbering{alph}
 \tableofcontents
 
 
-
-\createTitlePage{فصل اول}{مقدمه}
+\newpage
 \pagenumbering{arabic}
+
+\createTitlePage{فصل اول}{مقدمات}
 
 \include{introduction}
 
 \createTitlePage{فصل دوم}{درک صحنه}
-\include{imageCaptioning}
+\include{sceneUnderstanding}
 
 \createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
 \include{introduction}
@@ -84,5 +83,7 @@
 \include{introduction}
 
 
-
+\newpage
+\bibliography{ref}
+\bibliographystyle{unsrt-fa.bst}
 \end{document}
