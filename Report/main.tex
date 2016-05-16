@@ -1,0 +1,88 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{hyperref}
+\usepackage{graphics}
+\usepackage{float}
+
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+}
+
+\usepackage{xepersian}
+\settextfont[Scale=1.2]{B Nazanin}
+%\fontsize{14}{20}\selectfont
+\linespread{1.5}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\includeonly{imageCaptioning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\enfootnote}[1]{\LTRfootnote{\lr{#1}}}
+
+\newcounter{mypagecount}% create a new counter
+\setcounter{mypagecount}{0}% set it to something just in case
+\newenvironment{interlude}{% create a new environment for the unnumbered section(s)
+\newgeometry{top=50mm}
+  \clearpage
+  \setcounter{mypagecount}{\value{page}}% use the new counter we created to hold the page count at the start of the unnumbered section
+  \thispagestyle{empty}% we want this page to be empty (adjust to use a modified page style)
+  \pagestyle{empty}% use the same style for subsequent pages in the unnumbered section
+  }{%
+  \clearpage
+  \setcounter{page}{\value{mypagecount}}% restore the incremented value to the official tally of pages so the page numbering continues correctly
+\newgeometry{top=20mm}
+
+  }
+
+
+\newcommand{\createTitlePage}[2]{
+\newpage
+\begin{interlude}
+\vspace{5cm}
+\section[#1 #2]{
+    \Huge
+    \textbf{#1}\\
+    \center
+    \textbf{#2}
+    }
+    
+\end{interlude}
+
+\newpage
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\pagenumbering{gobble}
+
+\include{firstPage}
+\newpage
+\pagenumbering{alph}
+\tableofcontents
+
+
+
+\createTitlePage{فصل اول}{مقدمه}
+\pagenumbering{arabic}
+
+\include{introduction}
+
+\createTitlePage{فصل دوم}{درک صحنه}
+\include{imageCaptioning}
+
+\createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
+\include{introduction}
+
+\createTitlePage{فصل چهارم}{آزمون و ارزیابی}
+\include{introduction}
+
+\createTitlePage{فصل پنجم}{جمع‌بندی و نتیجه‌گیری}
+\include{introduction}
+
+
+
+\end{document}
