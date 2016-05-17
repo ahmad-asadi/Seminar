@@ -43,4 +43,36 @@ Felzenszwalb, Pedro, McAllester, David, and Ramanan, Deva.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{divvala2009empirical}
+Divvala, Santosh~K, Hoiem, Derek, Hays, James~H, Efros, Alexei~A, and Hebert,
+  Martial.
+\newblock An empirical study of context in object detection.
+\newblock  in {\em Computer Vision and Pattern Recognition, 2009. CVPR 2009.
+  IEEE Conference on},  pp. 1271--1278. IEEE, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Lin_2013_ICCV}
+Lin, Dahua, Fidler, Sanja, and Urtasun, Raquel.
+\newblock Holistic scene understanding for 3d object detection with rgbd
+  cameras.
+\newblock  in {\em The IEEE International Conference on Computer Vision
+  (ICCV)}, December 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ladicky2010and}
+Ladick{\`y}, L'ubor, Sturgess, Paul, Alahari, Karteek, Russell, Chris, and
+  Torr, Philip~HS.
+\newblock What, where and how many? combining object detectors and crfs.
+\newblock  in {\em Computer Vision--ECCV 2010},  pp. 424--437. Springer, 2010.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
