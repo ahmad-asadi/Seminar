@@ -7,4 +7,5 @@
 \contentsline {subsection}{\numberline {2‏.‏3}روش‌های مبتنی بر مدل‌های گرافی احتمالی}{4}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2‏.‏3‏.‏1}استفاده از مدل میدان تصادفی مارکف}{4}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2‏.‏3‏.‏2}استفاده از مدل میدان تصادفی شرطی}{7}{subsubsection.2.3.2}
-\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{8}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏3}استفاده از سایر مدل‌های گرافی احتمالی}{9}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{11}{subsection.2.4}
