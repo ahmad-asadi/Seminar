@@ -1,11 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sceneUnderstanding.aux
+White space in argument---line 43 of file sceneUnderstanding.aux
+ : \citation{Gist-based
+ :                      classification response}
+I'm skipping whatever remains of this command
 I found no \bibdata command---while reading file sceneUnderstanding.aux
 I found no \bibstyle command---while reading file sceneUnderstanding.aux
-You've used 5 entries,
+You've used 17 entries,
             0 wiz_defined-function locations,
-            90 strings with 642 characters,
+            105 strings with 897 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -44,4 +48,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 2 error messages)
+(There were 3 error messages)

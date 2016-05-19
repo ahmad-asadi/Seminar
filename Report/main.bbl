@@ -107,12 +107,75 @@ Li, Li-Jia and Fei-Fei, Li.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{li2009towards}
+Li, Li-Jia, Socher, Richard, and Fei-Fei, Li.
+\newblock Towards total scene understanding: Classification, annotation and
+  segmentation in an automatic framework.
+\newblock  in {\em Computer Vision and Pattern Recognition, 2009. CVPR 2009.
+  IEEE Conference on},  pp. 2036--2043. IEEE, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{gould2009decomposing}
 Gould, Stephen, Fulton, Richard, and Koller, Daphne.
 \newblock Decomposing a scene into geometric and semantically consistent
   regions.
 \newblock  in {\em Computer Vision, 2009 IEEE 12th International Conference
   on},  pp. 1--8. IEEE, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Girshick_2014_CVPR}
+Girshick, Ross, Donahue, Jeff, Darrell, Trevor, and Malik, Jitendra.
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock  in {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, June 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{uijlings2013selective}
+Uijlings, Jasper~RR, van~de Sande, Koen~EA, Gevers, Theo, and Smeulders,
+  Arnold~WM.
+\newblock Selective search for object recognition.
+\newblock {\em International journal of computer vision}, 104(2):154--171,
+  2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{krizhevsky2012imagenet}
+Krizhevsky, Alex, Sutskever, Ilya, and Hinton, Geoffrey~E.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock  in {\em Advances in neural information processing systems},  pp.
+  1097--1105, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{karpathy2014deep}
+Karpathy, Andrej, Joulin, Armand, and Li, Fei Fei~F.
+\newblock Deep fragment embeddings for bidirectional image sentence mapping.
+\newblock  in {\em Advances in neural information processing systems},  pp.
+  1889--1897, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Karpathy_2015_CVPR}
+Karpathy, Andrej and Fei-Fei, Li.
+\newblock Deep visual-semantic alignments for generating image descriptions.
+\newblock  in {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, June 2015.
 
 \end{LTRbibitems}
 
