@@ -1,14 +1,19 @@
 \contentsline {section}{\numberline {1}فصل اول مقدمات}{1}{section.1}
 \contentsline {subsection}{\numberline {1‏.‏1}مقدمه}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1‏.‏2}تعریف مساله}{2}{subsection.1.2}
-\contentsline {section}{\numberline {2}فصل دوم درک صحنه}{3}{section.2}
-\contentsline {subsection}{\numberline {2‏.‏1}درک صحنه}{3}{subsection.2.1}
-\contentsline {subsection}{\numberline {2‏.‏2}روش‌های مختلف موجود}{3}{subsection.2.2}
-\contentsline {subsection}{\numberline {2‏.‏3}روش‌های مبتنی بر مدل‌های گرافی احتمالی}{4}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏1}استفاده از مدل میدان تصادفی مارکف}{4}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏2}استفاده از مدل میدان تصادفی شرطی}{7}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏3}استفاده از سایر مدل‌های گرافی احتمالی}{9}{subsubsection.2.3.3}
-\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{18}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏1}اختصاص معنا به قطعه‌های مختلف تصویر}{18}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏2}ناحیه‌بندی عمیق تصاویر به منظور نگاشت دوطرفه جملات و تصاویر}{19}{subsubsection.2.4.2}
-\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏3}هم‌ترازسازی اطلاعات بصری و معنایی به منظور تولید خودکار شرح بر تصاویر}{24}{subsubsection.2.4.3}
+\contentsline {subsection}{\numberline {1‏.‏3}درک صحنه}{3}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1‏.‏3‏.‏1}پژوهش‌های انجام‌شده در زمینه درک صحنه توسط مغز انسان}{4}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1‏.‏3‏.‏2}نتایج به‌دست‌ آمده از آزمایشات}{6}{subsubsection.1.3.2}
+\contentsline {subsection}{\numberline {1‏.‏4}جمع‌بندی}{8}{subsection.1.4}
+\contentsline {section}{\numberline {2}فصل دوم درک صحنه}{10}{section.2}
+\contentsline {subsection}{\numberline {2‏.‏1}درک صحنه}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2‏.‏2}روش‌های مختلف موجود}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2‏.‏3}روش‌های مبتنی بر مدل‌های گرافی احتمالی}{11}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏1}استفاده از مدل میدان تصادفی مارکف}{11}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏2}استفاده از مدل میدان تصادفی شرطی}{14}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2‏.‏3‏.‏3}استفاده از سایر مدل‌های گرافی احتمالی}{16}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{24}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏1}اختصاص معنا به قطعه‌های مختلف تصویر}{24}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏2}ناحیه‌بندی عمیق تصاویر به منظور نگاشت دوطرفه جملات و تصاویر}{25}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2‏.‏5}جمع‌بندی}{30}{subsection.2.5}
+\contentsline {section}{\numberline {3}مراجع و منابع }{34}{section.3}

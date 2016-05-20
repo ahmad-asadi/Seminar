@@ -5,6 +5,57 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{fei2007we}
+Fei-Fei, Li, Iyer, Asha, Koch, Christof, and Perona, Pietro.
+\newblock What do we perceive in a glance of a real-world scene?
+\newblock {\em Journal of vision}, 7(1):10--10, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2007and}
+Li, Li-Jia and Fei-Fei, Li.
+\newblock What, where and who? classifying events by scene and object
+  recognition.
+\newblock  in {\em Computer Vision, 2007. ICCV 2007. IEEE 11th International
+  Conference on},  pp. 1--8. IEEE, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hoiem2015guest}
+Hoiem, Derek, Hays, James, Xiao, Jianxiong, and Khosla, Aditya.
+\newblock Guest editorial: Scene understanding.
+\newblock {\em International Journal of Computer Vision}, 112(2):131--132,
+  2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{potter1976short}
+Potter, Mary~C.
+\newblock Short-term conceptual memory for pictures.
+\newblock {\em Journal of experimental psychology: human learning and memory},
+  2(5):509, 1976.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{potter2002recognition}
+Potter, Mary~C, Staub, Adrian, Rado, Janina, and O'Connor, Daniel~H.
+\newblock Recognition memory for briefly presented pictures: the time course of
+  rapid forgetting.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 28(5):1163, 2002.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{fidler2013sentence}
 Fidler, Sanja, Sharma, Abhishek, and Urtasun, Raquel.
 \newblock A sentence is worth a thousand pixels.
@@ -91,17 +142,6 @@ Felzenszwalb, Pedro~F, Girshick, Ross~B, McAllester, David, and Ramanan, Deva.
 \newblock Object detection with discriminatively trained part-based models.
 \newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
   on}, 32(9):1627--1645, 2010.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{li2007and}
-Li, Li-Jia and Fei-Fei, Li.
-\newblock What, where and who? classifying events by scene and object
-  recognition.
-\newblock  in {\em Computer Vision, 2007. ICCV 2007. IEEE 11th International
-  Conference on},  pp. 1--8. IEEE, 2007.
 
 \end{LTRbibitems}
 

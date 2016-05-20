@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  19 MAY 2016 21:42
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  20 MAY 2016 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,6 +158,9 @@ tly
 )
 \Hy@SectionHShift=\skip43
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
@@ -173,6 +176,9 @@ Package graphics Info: Driver file: xetex.def on input line 91.
 File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
 
 ))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count100
@@ -195,11 +201,11 @@ Package: amstext 2000/06/29 v2.01
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
-\ex@=\dimen107
+\ex@=\dimen109
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen108
+\pmbraise@=\dimen110
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -216,7 +222,7 @@ LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box29
 \strutbox@=\box30
-\big@size=\dimen109
+\big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count106
@@ -229,12 +235,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count111
 \maxfields@=\count112
 \andhelp@=\toks19
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
 \@envbody=\toks20
 \multlinegap=\skip45
 \multlinetaggap=\skip46
@@ -242,19 +248,50 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen118
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen119
+\subfiglabelskip=\skip50
+\c@subfigure=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@lotdepth=\count116
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip53
+\f@ncyO@elh=\skip54
+\f@ncyO@erh=\skip55
+\f@ncyO@olh=\skip56
+\f@ncyO@orh=\skip57
+\f@ncyO@elf=\skip58
+\f@ncyO@erf=\skip59
+\f@ncyO@olf=\skip60
+\f@ncyO@orf=\skip61
+)
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count113
-\Gm@cntv=\count114
-\c@Gm@tempcnt=\count115
-\Gm@bindingoffset=\dimen116
-\Gm@wd@mp=\dimen117
-\Gm@odd@mp=\dimen118
-\Gm@even@mp=\dimen119
-\Gm@layoutwidth=\dimen120
-\Gm@layoutheight=\dimen121
-\Gm@layouthoffset=\dimen122
-\Gm@layoutvoffset=\dimen123
+\Gm@cnth=\count117
+\Gm@cntv=\count118
+\c@Gm@tempcnt=\count119
+\Gm@bindingoffset=\dimen120
+\Gm@wd@mp=\dimen121
+\Gm@odd@mp=\dimen122
+\Gm@even@mp=\dimen123
+\Gm@layoutwidth=\dimen124
+\Gm@layoutheight=\dimen125
+\Gm@layouthoffset=\dimen126
+\Gm@layoutvoffset=\dimen127
 \Gm@dimlist=\toks22
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
@@ -272,7 +309,7 @@ Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count116
+\et@xins=\count120
 )
 Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
 
@@ -290,18 +327,18 @@ Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
 Package: l3int 2013/08/02 v4583 L3 Integers
-\c_max_int=\count117
-\l_tmpa_int=\count118
-\l_tmpb_int=\count119
-\g_tmpa_int=\count120
-\g_tmpb_int=\count121
+\c_max_int=\count121
+\l_tmpa_int=\count122
+\l_tmpb_int=\count123
+\g_tmpa_int=\count124
+\g_tmpb_int=\count125
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
 Package: l3quark 2013/12/14 v4623 L3 Quarks
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
 Package: l3prg 2014/01/04 v4642 L3 Control structures
-\g__prg_map_int=\count122
+\g__prg_map_int=\count126
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
 Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
@@ -317,26 +354,26 @@ Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
 Package: l3file 2013/10/13 v4596 L3 File and I/O operations
-\l_iow_line_count_int=\count123
-\l__iow_target_count_int=\count124
-\l__iow_current_line_int=\count125
-\l__iow_current_word_int=\count126
-\l__iow_current_indentation_int=\count127
+\l_iow_line_count_int=\count127
+\l__iow_target_count_int=\count128
+\l__iow_current_line_int=\count129
+\l__iow_current_word_int=\count130
+\l__iow_current_indentation_int=\count131
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
 Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
-\c_zero_dim=\dimen124
-\c_max_dim=\dimen125
-\l_tmpa_dim=\dimen126
-\l_tmpb_dim=\dimen127
-\g_tmpa_dim=\dimen128
-\g_tmpb_dim=\dimen129
-\c_zero_skip=\skip47
-\c_max_skip=\skip48
-\l_tmpa_skip=\skip49
-\l_tmpb_skip=\skip50
-\g_tmpa_skip=\skip51
-\g_tmpb_skip=\skip52
+\c_zero_dim=\dimen128
+\c_max_dim=\dimen129
+\l_tmpa_dim=\dimen130
+\l_tmpb_dim=\dimen131
+\g_tmpa_dim=\dimen132
+\g_tmpb_dim=\dimen133
+\c_zero_skip=\skip62
+\c_max_skip=\skip63
+\l_tmpa_skip=\skip64
+\l_tmpb_skip=\skip65
+\g_tmpa_skip=\skip66
+\g_tmpb_skip=\skip67
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -346,20 +383,20 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
 Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count128
-\l_keys_choice_int=\count129
+\g__keyval_level_int=\count132
+\l_keys_choice_int=\count133
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
 Package: l3fp 2014/01/04 v4642 L3 Floating points
-\c__fp_leading_shift_int=\count130
-\c__fp_middle_shift_int=\count131
-\c__fp_trailing_shift_int=\count132
-\c__fp_big_leading_shift_int=\count133
-\c__fp_big_middle_shift_int=\count134
-\c__fp_big_trailing_shift_int=\count135
-\c__fp_Bigg_leading_shift_int=\count136
-\c__fp_Bigg_middle_shift_int=\count137
-\c__fp_Bigg_trailing_shift_int=\count138
+\c__fp_leading_shift_int=\count134
+\c__fp_middle_shift_int=\count135
+\c__fp_trailing_shift_int=\count136
+\c__fp_big_leading_shift_int=\count137
+\c__fp_big_middle_shift_int=\count138
+\c__fp_big_trailing_shift_int=\count139
+\c__fp_Bigg_leading_shift_int=\count140
+\c__fp_Bigg_middle_shift_int=\count141
+\c__fp_Bigg_trailing_shift_int=\count142
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
 Package: l3box 2013/07/28 v4581 L3 Experimental boxes
@@ -372,13 +409,13 @@ Package: l3box 2013/07/28 v4581 L3 Experimental boxes
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
 Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
 \l__coffin_internal_box=\box36
-\l__coffin_internal_dim=\dimen130
-\l__coffin_offset_x_dim=\dimen131
-\l__coffin_offset_y_dim=\dimen132
-\l__coffin_x_dim=\dimen133
-\l__coffin_y_dim=\dimen134
-\l__coffin_x_prime_dim=\dimen135
-\l__coffin_y_prime_dim=\dimen136
+\l__coffin_internal_dim=\dimen134
+\l__coffin_offset_x_dim=\dimen135
+\l__coffin_offset_y_dim=\dimen136
+\l__coffin_x_dim=\dimen137
+\l__coffin_y_dim=\dimen138
+\l__coffin_x_prime_dim=\dimen139
+\l__coffin_y_prime_dim=\dimen140
 \c_empty_coffin=\box37
 \l__coffin_aligned_coffin=\box38
 \l__coffin_aligned_internal_coffin=\box39
@@ -387,51 +424,51 @@ Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
 \l__coffin_display_coffin=\box42
 \l__coffin_display_coord_coffin=\box43
 \l__coffin_display_pole_coffin=\box44
-\l__coffin_display_offset_dim=\dimen137
-\l__coffin_display_x_dim=\dimen138
-\l__coffin_display_y_dim=\dimen139
+\l__coffin_display_offset_dim=\dimen141
+\l__coffin_display_x_dim=\dimen142
+\l__coffin_display_y_dim=\dimen143
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
 Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
 Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count139
-\g__cctab_stack_int=\count140
+\g__cctab_allocate_int=\count143
+\g__cctab_stack_int=\count144
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
 Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen140
-\l__box_bottom_dim=\dimen141
-\l__box_left_dim=\dimen142
-\l__box_right_dim=\dimen143
-\l__box_top_new_dim=\dimen144
-\l__box_bottom_new_dim=\dimen145
-\l__box_left_new_dim=\dimen146
-\l__box_right_new_dim=\dimen147
+\l__box_top_dim=\dimen144
+\l__box_bottom_dim=\dimen145
+\l__box_left_dim=\dimen146
+\l__box_right_dim=\dimen147
+\l__box_top_new_dim=\dimen148
+\l__box_bottom_new_dim=\dimen149
+\l__box_left_new_dim=\dimen150
+\l__box_right_new_dim=\dimen151
 \l__box_internal_box=\box45
-\l__coffin_bounding_shift_dim=\dimen148
-\l__coffin_left_corner_dim=\dimen149
-\l__coffin_right_corner_dim=\dimen150
-\l__coffin_bottom_corner_dim=\dimen151
-\l__coffin_top_corner_dim=\dimen152
-\l__coffin_scaled_total_height_dim=\dimen153
-\l__coffin_scaled_width_dim=\dimen154
+\l__coffin_bounding_shift_dim=\dimen152
+\l__coffin_left_corner_dim=\dimen153
+\l__coffin_right_corner_dim=\dimen154
+\l__coffin_bottom_corner_dim=\dimen155
+\l__coffin_top_corner_dim=\dimen156
+\l__coffin_scaled_total_height_dim=\dimen157
+\l__coffin_scaled_width_dim=\dimen158
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count141
-\l__xparse_m_args_int=\count142
-\l__xparse_mandatory_args_int=\count143
-\l__xparse_processor_int=\count144
-\l__xparse_v_nesting_int=\count145
+\l__xparse_current_arg_int=\count145
+\l__xparse_m_args_int=\count146
+\l__xparse_mandatory_args_int=\count147
+\l__xparse_processor_int=\count148
+\l__xparse_v_nesting_int=\count149
 )
-\l_fontspec_script_int=\count146
-\l_fontspec_language_int=\count147
-\l_fontspec_strnum_int=\count148
-\l_fontspec_tmpa_dim=\dimen155
-\l_fontspec_tmpb_dim=\dimen156
-\l_fontspec_tmpc_dim=\dimen157
+\l_fontspec_script_int=\count150
+\l_fontspec_language_int=\count151
+\l_fontspec_strnum_int=\count152
+\l_fontspec_tmpa_dim=\dimen159
+\l_fontspec_tmpb_dim=\dimen160
+\l_fontspec_tmpc_dim=\dimen161
 Variant \tl_gset:cV already defined; not changing it on line 69
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
@@ -486,15 +523,10 @@ LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-\tipaTiiicode=\count149
+\tipaTiiicode=\count153
 \tipasavetokens=\toks23
 \tipachecktokens=\toks24
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
-))
+)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -601,7 +633,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 .................................................
 Variant \prop_gput:cnV already defined; not changing it on line 582
 Variant \prop_gput:cnx already defined; not changing it on line 583
-\l_fontspec_tmp_int=\count150
+\l_fontspec_tmp_int=\count154
 LaTeX Info: Redefining \itshape on input line 2087.
 LaTeX Info: Redefining \slshape on input line 2092.
 LaTeX Info: Redefining \scshape on input line 2097.
@@ -610,43 +642,43 @@ LaTeX Info: Redefining \upshape on input line 2102.
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count151
-\XePersian@y=\count152
-\XePersian@m=\count153
-\XePersian@d=\count154
-\XePersian@latini=\count155
-\XePersian@persiani=\count156
-\XePersian@latinii=\count157
-\XePersian@persianii=\count158
-\XePersian@latiniii=\count159
-\XePersian@persianiii=\count160
-\XePersian@latiniv=\count161
-\XePersian@persianiv=\count162
-\XePersian@latinv=\count163
-\XePersian@persianv=\count164
-\XePersian@latinvi=\count165
-\XePersian@persianvi=\count166
-\XePersian@latinvii=\count167
-\XePersian@persianvii=\count168
-\XePersian@latinviii=\count169
-\XePersian@persianviii=\count170
-\XePersian@latinix=\count171
-\XePersian@persianix=\count172
-\XePersian@latinx=\count173
-\XePersian@persianx=\count174
-\XePersian@latinxi=\count175
-\XePersian@persianxi=\count176
-\XePersian@latinxii=\count177
-\XePersian@persianxii=\count178
-\XePersian@persianxiii=\count179
-\XePersian@temp=\count180
-\XePersian@temptwo=\count181
-\XePersian@tempthree=\count182
-\XePersian@yModHundred=\count183
-\XePersian@thirtytwo=\count184
-\XePersian@dn=\count185
-\XePersian@sn=\count186
-\XePersian@mminusone=\count187
+\XePersian@i=\count155
+\XePersian@y=\count156
+\XePersian@m=\count157
+\XePersian@d=\count158
+\XePersian@latini=\count159
+\XePersian@persiani=\count160
+\XePersian@latinii=\count161
+\XePersian@persianii=\count162
+\XePersian@latiniii=\count163
+\XePersian@persianiii=\count164
+\XePersian@latiniv=\count165
+\XePersian@persianiv=\count166
+\XePersian@latinv=\count167
+\XePersian@persianv=\count168
+\XePersian@latinvi=\count169
+\XePersian@persianvi=\count170
+\XePersian@latinvii=\count171
+\XePersian@persianvii=\count172
+\XePersian@latinviii=\count173
+\XePersian@persianviii=\count174
+\XePersian@latinix=\count175
+\XePersian@persianix=\count176
+\XePersian@latinx=\count177
+\XePersian@persianx=\count178
+\XePersian@latinxi=\count179
+\XePersian@persianxi=\count180
+\XePersian@latinxii=\count181
+\XePersian@persianxii=\count182
+\XePersian@persianxiii=\count183
+\XePersian@temp=\count184
+\XePersian@temptwo=\count185
+\XePersian@tempthree=\count186
+\XePersian@yModHundred=\count187
+\XePersian@thirtytwo=\count188
+\XePersian@dn=\count189
+\XePersian@sn=\count190
+\XePersian@mminusone=\count191
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.s
 ty
@@ -732,7 +764,7 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count188
+\c@abspage=\count192
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
@@ -743,7 +775,7 @@ or XeTeX engine
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2013/04/26 v0.8 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count189
+\c@footdir@label=\count193
 \footdir@toks=\toks26
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
@@ -773,6 +805,14 @@ kage for XeTeX engine
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
 File: hyperref-xetex-bidi.def 2013/04/08 v0.7 bidi adaptations for hyperref pac
 kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
+File: fancyhdr-xetex-bidi.def 2012/04/18 v0.4 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/subfigure-xetex-bidi.def
+File: subfigure-xetex-bidi.def 2010/03/01 v0.1 bidi adaptations for subfigure p
+ackage for XeTeX engine
 ))
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
 File: loadingorder-xetex-bidi.def 2013/05/22 v0.95 making sure that bidi is the
@@ -805,7 +845,7 @@ File: loadingorder-xetex-bidi.def 2013/05/22 v0.95 making sure that bidi is the
 . Defining document command \settextfont with arg. spec. 'O{}m' on line 110.
 .................................................
 \g__file_internal_ior=\read1
-\g_fontspec_family_persian-modern-regular_int=\count190
+\g_fontspec_family_persian-modern-regular_int=\count194
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -894,7 +934,7 @@ as'persian-modern-regular' on input line 112.
 . Defining document command \setlatintextfont with arg. spec. 'O{}m' on line
 . 121.
 .................................................
-\g_fontspec_family_lmroman10-regular_int=\count191
+\g_fontspec_family_lmroman10-regular_int=\count195
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -984,7 +1024,7 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 . 
 . Defining document command \setpookfont with arg. spec. 'O{}m' on line 188.
 .................................................
-\g_fontspec_family_persian-modern-outline_int=\count192
+\g_fontspec_family_persian-modern-outline_int=\count196
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1015,7 +1055,7 @@ idigits;"
 . 
 . Defining document command \setsayehfont with arg. spec. 'O{}m' on line 193.
 .................................................
-\g_fontspec_family_persian-modern-shadow_int=\count193
+\g_fontspec_family_persian-modern-shadow_int=\count197
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1046,7 +1086,7 @@ digits;"
 . 
 . Defining document command \setiranicfont with arg. spec. 'O{}m' on line 198.
 .................................................
-\g_fontspec_family_persian-modern-oblique_int=\count194
+\g_fontspec_family_persian-modern-oblique_int=\count198
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1133,7 +1173,7 @@ es
 * Language 'Parsi' not available for font 'B Nazanin' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-\g_fontspec_family_B Nazanin_int=\count195
+\g_fontspec_family_B Nazanin_int=\count199
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1156,45 +1196,42 @@ es
 . * 'bold italic' with NFSS spec.:
 . <->s*[1.2]"B Nazanin/BI/ICU:script=arab;language=DFLT;mapping=parsidigits;"
 .................................................
-LaTeX Info: Redefining \persianfont on input line 18.
+LaTeX Info: Redefining \persianfont on input line 20.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 18.
-\c@mypagecount=\count196
-(./main.aux (./firstPage.aux) (./introduction.aux) (./sceneUnderstanding.aux
-
-LaTeX Warning: Label `eq:k2014CF' multiply defined.
-
-))
+(Font)              scaled to size 11.99997pt on input line 20.
+\c@mypagecount=\count200
+(./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
+(./sceneUnderstanding.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 64.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 64.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 62.
+(Font)              scaled to size 14.39996pt on input line 64.
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 62.
+Package hyperref Info: Link coloring OFF on input line 64.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1202,11 +1239,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count197
+\c@section@level=\count201
 )
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -1274,16 +1311,30 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 
-] (./main.toc
+]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
 (Font)              scaled to size 14.39996pt on input line 1.
-)
+Missing character: There is no ‫ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+) [2
+
+
+] (./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
  [1
 
-]
+] (./main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [2]
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
@@ -1383,7 +1434,32 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
-) [2]
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+[][]
+ []
+
+[3]
+File: ./Imgs/fei2007we_res2.png Graphic file (type QTm)
+ <use  "./Imgs/fei2007we_res2.png" > [4]
+File: ./Imgs/fei2007we_exp1.png Graphic file (type QTm)
+
+<use  "./Imgs/fei2007we_exp1.png" > [5]
+File: ./Imgs/fei2007we_data1.png Graphic file (type QTm)
+ <use  "./Imgs/fei2007we_data1.png" >
+File: ./Imgs/fei2007we_data2.png Graphic file (type QTm)
+
+<use  "./Imgs/fei2007we_data2.png" > [6]
+File: ./Imgs/fei2007we_res3.png Graphic file (type QTm)
+ <use  "./Imgs/fei2007we_res3.png" >
+[7]
+File: ./Imgs/fei2007we_res4.png Graphic file (type QTm)
+ <use  "./Imgs/fei2007we_res4.png" >
+Missing character: There is no ‫ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+ [8]) [9]
 \openout2 = `sceneUnderstanding.aux'.
 
  (./sceneUnderstanding.tex
@@ -1424,7 +1500,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 [][]
  []
 
-[3
+[10
 
 
 
@@ -1471,10 +1547,10 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
-[3
+[10
 
 
-] [4]
+] [11]
 File: ./Imgs/farhadi2010every_fig1.png Graphic file (type QTm)
  <use  "./Imgs/farhadi2010every_fig1.png" >
 Overfull \hbox (25.7028pt too wide) in paragraph at lines 53--56
@@ -1482,17 +1558,17 @@ Overfull \hbox (25.7028pt too wide) in paragraph at lines 53--56
  []
 
 
-LaTeX Warning: Citation `Farhadi2010every.' on page 5 undefined on input line 5
-6.
+LaTeX Warning: Citation `Farhadi2010every.' on page 12 undefined on input line 
+56.
 
 
-LaTeX Warning: Citation `Farhadi2010every.' on page 5 undefined on input line 5
-6.
+LaTeX Warning: Citation `Farhadi2010every.' on page 12 undefined on input line 
+56.
 
-[5]
+[12]
 
-LaTeX Warning: Citation `Gist-based classification response' on page 6 undefine
-d on input line 74.
+LaTeX Warning: Citation `Gist-based classification response' on page 13 undefin
+ed on input line 74.
 
 File: ./Imgs/farhadi2010every_fig2.png Graphic file (type QTm)
 <use  "./Imgs/farhadi2010every_fig2.png" >
@@ -1505,26 +1581,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--98
 [][]
  []
 
-[6]
+[13]
 File: ./Imgs/fidler2013sentence_f1.png Graphic file (type QTm)
  <use  "./Imgs/fidler2013sentence_f1.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8]
+[14] [15]
 File: ./Imgs/li2007and_model.png Graphic file (type QTm)
- <use  "./Imgs/li2007and_model.png" > [9] [10] [11] [12]
+ <use  "./Imgs/li2007and_model.png" > [16] [17] [18] [19]
 File: ./Imgs/li2007and_dataset.png Graphic file (type QTm)
 
-<use  "./Imgs/li2007and_dataset.png" > [13] [14]
+<use  "./Imgs/li2007and_dataset.png" > [20]
 File: ./Imgs/li2007and_confmat.png Graphic file (type QTm)
 
 <use  "./Imgs/li2007and_confmat.png" >
 File: ./Imgs/li2007and_compar.png Graphic file (type QTm)
  <use  "./Imgs/li2007and_compar.png" >
-[15]
+[21]
 File: ./Imgs/li2007and_res1.png Graphic file (type QTm)
- <use  "./Imgs/li2007and_res1.png" > [16] [17] [18]
+ <use  "./Imgs/li2007and_res1.png" > [22] [23] [24]
 File: ./Imgs/karpathy2014deep_model.png Graphic file (type QTm)
 
 <use  "./Imgs/karpathy2014deep_model.png" >
@@ -1532,56 +1608,134 @@ Overfull \hbox (22.19708pt too wide) in paragraph at lines 408--409
  [][][][][] 
  []
 
-[19] [20] [21]
+[25] [26] [27]
 File: ./Imgs/karpathy20014deep_CFG.png Graphic file (type QTm)
- <use  "./Imgs/karpathy20014deep_CFG.png" > [22]
+ <use  "./Imgs/karpathy20014deep_CFG.png" > [28]
 File: ./Imgs/karpathy2014deep_res1.png Graphic file (type QTm)
 
 <use  "./Imgs/karpathy2014deep_res1.png" >
 File: ./Imgs/karpathy2014deep_res2.png Graphic file (type QTm)
 
 <use  "./Imgs/karpathy2014deep_res2.png" >
-Overfull \hbox (5.9362pt too wide) in paragraph at lines 529--530
+Overfull \hbox (5.9362pt too wide) in paragraph at lines 530--531
  [][][][][] 
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 537--544
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
 [][]
  []
 
-) [24] [25] (./main.bbl [26
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--550
+[][]
+ []
+
+[30] [31] [32]) [33]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(142.26378pt, 601.37642pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=601.37642pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=32.99379pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[][]
+ []
+
+[34
+
+
 
 ]
-Underfull \hbox (badness 1215) in paragraph at lines 144--149
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=686.7347pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./main.bbl [34
+
+
+]
+Underfull \hbox (badness 1215) in paragraph at lines 184--189
 []\EU1/lmroman10-regular(0)/m/n/12 Uijlings, Jasper RR, van de Sande, Koen EA, 
 Gevers, Theo, and Smeulders,
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
- [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
- (./main.aux (./firstPage.aux) (./introduction.aux)
+[35])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+ [36]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+ (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
 (./sceneUnderstanding.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 90.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 23874 strings out of 493918
- 438690 string characters out of 6150563
- 523115 words of memory out of 5000000
- 26792 multiletter control sequences out of 15000+600000
+ 24205 strings out of 493918
+ 443225 string characters out of 6150563
+ 529567 words of memory out of 5000000
+ 27092 multiletter control sequences out of 15000+600000
  10683 words of font info for 105 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,27n,48p,10452b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,27n,48p,10452b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (31 pages).
+Output written on main.pdf (43 pages).

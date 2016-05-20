@@ -1,10 +1,12 @@
 \documentclass[12pt,a4paper]{article}
 
 \usepackage{hyperref}
-\usepackage{graphics}
+\usepackage{graphicx}
 \usepackage{float}
 \usepackage{relsize}
 \usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{fancyhdr}
 
 \usepackage{geometry}
 \geometry{
@@ -60,31 +62,45 @@
 \newcommand{\ML}[1]{\mathlarger{\mathlarger{#1}}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+
+%\pagestyle{fancy}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+%\renewcommand{\subsubsectionmark}[1]{\markright{\thesection\ #1}}
+%\rhead{\fancyplain{}{\rightmark }} % 1. sectionname, 1.1 subsection name etc
+%%\cfoot{\fancyplain{}{\thepage}}
+
 \pagenumbering{gobble}
 \include{firstPage}
 \newpage
+\vfill
+\include{abstract}
+\newpage
 \pagenumbering{alph}
 \tableofcontents
+\newpage
+\listoffigures
 
 
 \newpage
 \pagenumbering{arabic}
 
+%\createTitlePage{فصل اول}{مقدمه}
 \include{introduction}
 
+%\createTitlePage{فصل دوم}{درک صحنه}
 \include{sceneUnderstanding}
 
 %\createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
-%\include{introduction}
+%\include{sentenceGeneration}
 %
-%\createTitlePage{فصل چهارم}{آزمون و ارزیابی}
-%\include{introduction}
+%\createTitlePage{فصل چهارم}{ارائه نتایج}
+%\include{evaluation}
 %
 %\createTitlePage{فصل پنجم}{جمع‌بندی و نتیجه‌گیری}
-%\include{introduction}
+%\include{conclusion}
 
 
-\newpage
+\createTitlePage{مراجع و منابع}{}
 \bibliography{ref}
 \bibliographystyle{unsrt-fa.bst}
 \end{document}

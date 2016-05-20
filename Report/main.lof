@@ -1,0 +1,19 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces نمونه توصیف‌های افراد برای تصاویر}}{5}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces ساختار مطلوب اطلاعات استخراج‌شده از تصاویر\cite {fei2007we}}}{5}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces تصاویر دنیای واقعی مورد استفاده در آزمایشات\cite {fei2007we}}}{6}{figure.3}
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {چند نمونه از تصاویر در محیط باز}}}{6}{figure.3}
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {چند نمونه از تصاویر در محیط بسته}}}{6}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces نمودار مقایسه‌ای عملکرد مغز در درک صحنه}}{7}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces نمونه‌ای از نتایج به‌دست‌آمده از آزمایشات\cite {fei2007we}}}{8}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces نگاشت تصویر به فضای معنایی}}{12}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces مدل میدان تصادفی مارکف در درک صحنه}}{13}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces مدل سلسله‌مراتبی میدان تصادفی شرطی در درک صحنه}}{15}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces مدل گرافی احتمالی مورد استفاده در پژوهش\cite {li2007and}}}{16}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces نمونه تصاویر موجود در مجموعه‌داده مورد استفاده. \cite {li2007and}}}{20}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces ماتریس درهم‌ریختگی مدل کامل ارائه شده در \cite {li2007and}}}{21}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces نتیجه مقایسه مدل‌های مختلف در \cite {li2007and}}}{22}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces نتایج نهایی به‌دست آمده از مدل بر روی تصاویر. \cite {li2007and}}}{23}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces طرح‌واره عملکرد روش \lr {RCNN}}}{26}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces نتایج عملکرد اهداف تعریف‌شده در روش \lr {RCNN} برای هم‌ترازسازی تصاویر و جملات}}{28}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces نتایج نهایی روش \lr {RCNN}}}{29}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces نتایج حاصل از جستجوی جملات در روش \lr {RCNN}}}{30}{figure.17}
