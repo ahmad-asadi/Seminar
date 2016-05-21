@@ -147,28 +147,6 @@ Felzenszwalb, Pedro~F, Girshick, Ross~B, McAllester, David, and Ramanan, Deva.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{li2009towards}
-Li, Li-Jia, Socher, Richard, and Fei-Fei, Li.
-\newblock Towards total scene understanding: Classification, annotation and
-  segmentation in an automatic framework.
-\newblock  in {\em Computer Vision and Pattern Recognition, 2009. CVPR 2009.
-  IEEE Conference on},  pp. 2036--2043. IEEE, 2009.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{gould2009decomposing}
-Gould, Stephen, Fulton, Richard, and Koller, Daphne.
-\newblock Decomposing a scene into geometric and semantically consistent
-  regions.
-\newblock  in {\em Computer Vision, 2009 IEEE 12th International Conference
-  on},  pp. 1--8. IEEE, 2009.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{Girshick_2014_CVPR}
 Girshick, Ross, Donahue, Jeff, Darrell, Trevor, and Malik, Jitendra.
 \newblock Rich feature hierarchies for accurate object detection and semantic

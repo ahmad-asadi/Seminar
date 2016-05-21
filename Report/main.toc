@@ -12,8 +12,8 @@
 \contentsline {subsubsection}{\numberline {2‏.‏3‏.‏1}استفاده از مدل میدان تصادفی مارکف}{11}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2‏.‏3‏.‏2}استفاده از مدل میدان تصادفی شرطی}{14}{subsubsection.2.3.2}
 \contentsline {subsubsection}{\numberline {2‏.‏3‏.‏3}استفاده از سایر مدل‌های گرافی احتمالی}{16}{subsubsection.2.3.3}
-\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{24}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏1}اختصاص معنا به قطعه‌های مختلف تصویر}{24}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏2}ناحیه‌بندی عمیق تصاویر به منظور نگاشت دوطرفه جملات و تصاویر}{25}{subsubsection.2.4.2}
-\contentsline {subsection}{\numberline {2‏.‏5}جمع‌بندی}{30}{subsection.2.5}
-\contentsline {section}{\numberline {3}مراجع و منابع }{34}{section.3}
+\contentsline {subsection}{\numberline {2‏.‏4}روش‌های مبتنی بر شبکه‌های عصبی کانولوشنی عمیق}{23}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏1}اختصاص معنا به قطعه‌های مختلف تصویر}{23}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2‏.‏4‏.‏2}ناحیه‌بندی عمیق تصاویر به منظور نگاشت دوطرفه جملات و تصاویر}{24}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2‏.‏5}جمع‌بندی}{29}{subsection.2.5}
+\contentsline {section}{\numberline {3}مراجع و منابع }{33}{section.3}

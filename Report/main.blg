@@ -2,62 +2,53 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: firstPage.aux
+A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: sceneUnderstanding.aux
-White space in argument---line 43 of file sceneUnderstanding.aux
- : \citation{Gist-based
- :                      classification response}
-I'm skipping whatever remains of this command
-A level-1 auxiliary file: sentenceGeneration.aux
-A level-1 auxiliary file: evaluation.aux
-A level-1 auxiliary file: conclusion.aux
 The style file: unsrt-fa.bst.bst
 Database file #1: ref.bib
-Warning--I didn't find a database entry for "li2007a"
-Warning--I didn't find a database entry for "Farhadi2010every."
 -- unsrt-fa.bst version 0.5 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 21 entries,
+You've used 19 entries,
             2198 wiz_defined-function locations,
-            695 strings with 8975 characters,
-and the built_in function-call counts, 7124 in all, are:
-= -- 631
-> -- 260
-< -- 12
-+ -- 94
-- -- 73
-* -- 431
-:= -- 938
-add.period$ -- 71
-call.type$ -- 21
-change.case$ -- 21
+            682 strings with 8521 characters,
+and the built_in function-call counts, 6348 in all, are:
+= -- 554
+> -- 238
+< -- 10
++ -- 86
+- -- 67
+* -- 391
+:= -- 843
+add.period$ -- 63
+call.type$ -- 19
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 343
-empty$ -- 666
-format.name$ -- 73
-if$ -- 1774
+cite$ -- 19
+duplicate$ -- 303
+empty$ -- 593
+format.name$ -- 67
+if$ -- 1570
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 110
-newline$ -- 195
-num.names$ -- 21
-pop$ -- 99
+int.to.str$ -- 19
+missing$ -- 98
+newline$ -- 177
+num.names$ -- 19
+pop$ -- 87
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 202
+skip$ -- 177
 stack$ -- 0
-substring$ -- 497
-swap$ -- 139
-text.length$ -- 12
+substring$ -- 441
+swap$ -- 119
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 0
-while$ -- 67
-width$ -- 23
-write$ -- 304
-(There was 1 error message)
+while$ -- 59
+width$ -- 21
+write$ -- 274
