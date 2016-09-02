@@ -5,50 +5,51 @@ A level-1 auxiliary file: firstPage.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: sceneUnderstanding.aux
+A level-1 auxiliary file: sentenceGeneration.aux
 The style file: unsrt-fa.bst.bst
 Database file #1: ref.bib
 -- unsrt-fa.bst version 0.5 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 19 entries,
+You've used 24 entries,
             2198 wiz_defined-function locations,
-            682 strings with 8521 characters,
-and the built_in function-call counts, 6348 in all, are:
-= -- 554
-> -- 238
-< -- 10
-+ -- 86
-- -- 67
-* -- 391
-:= -- 843
-add.period$ -- 63
-call.type$ -- 19
-change.case$ -- 19
+            714 strings with 9637 characters,
+and the built_in function-call counts, 8046 in all, are:
+= -- 718
+> -- 293
+< -- 13
++ -- 106
+- -- 82
+* -- 489
+:= -- 1065
+add.period$ -- 81
+call.type$ -- 24
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 303
-empty$ -- 593
-format.name$ -- 67
-if$ -- 1570
+cite$ -- 24
+duplicate$ -- 382
+empty$ -- 749
+format.name$ -- 82
+if$ -- 1996
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 98
-newline$ -- 177
-num.names$ -- 19
-pop$ -- 87
+int.to.str$ -- 24
+missing$ -- 124
+newline$ -- 222
+num.names$ -- 24
+pop$ -- 107
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 177
+skip$ -- 224
 stack$ -- 0
-substring$ -- 441
-swap$ -- 119
-text.length$ -- 10
+substring$ -- 573
+swap$ -- 152
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 0
-while$ -- 59
-width$ -- 21
-write$ -- 274
+while$ -- 77
+width$ -- 26
+write$ -- 347

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  21 MAY 2016 10:37
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  2 SEP 2016 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1228,37 +1228,38 @@ LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
 (Font)              scaled to size 11.99997pt on input line 21.
 \c@mypagecount=\count201
 (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
-(./sceneUnderstanding.aux))
+(./sceneUnderstanding.aux) (./sentenceGeneration.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 65.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 65.
- (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 68.
+
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 65.
+(Font)              scaled to size 14.39996pt on input line 68.
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 65.
+Package hyperref Info: Link coloring OFF on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1269,9 +1270,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 Normal \count register pool exhausted, switching to extended pool.
 \c@section@level=\count277
 )
-LaTeX Info: Redefining \ref on input line 65.
-LaTeX Info: Redefining \pageref on input line 65.
-LaTeX Info: Redefining \nameref on input line 65.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -1322,17 +1323,17 @@ QTm)
 
 <use  "/home/asadi/Documents/Latex/Imgs/fa_aut_with_name.png" >
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 24.88794pt on input line 14.
+(Font)              scaled to size 24.88794pt on input line 15.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 24.88794pt on input line 16.
+(Font)              scaled to size 24.88794pt on input line 17.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 19.
+(Font)              scaled to size 13.13995pt on input line 20.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 25.
+(Font)              scaled to size 20.73593pt on input line 26.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 20.73593pt on input line 27.
+(Font)              scaled to size 20.73593pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 30.
+(Font)              scaled to size 17.27994pt on input line 31.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -1358,13 +1359,18 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
+ [3
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [2]
+ [4] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+
+[5]
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
@@ -1456,7 +1462,7 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
- [1
+ [2
 
 
 ]
@@ -1464,32 +1470,32 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
- [2]
+ [3]
 Underfull \hbox (badness 10000) in paragraph at lines 54--56
 [][]
  []
 
-[3]
+[4]
 File: ./Imgs/fei2007we_res2.png Graphic file (type QTm)
- <use  "./Imgs/fei2007we_res2.png" > [4]
+ <use  "./Imgs/fei2007we_res2.png" > [5]
 File: ./Imgs/fei2007we_exp1.png Graphic file (type QTm)
 
-<use  "./Imgs/fei2007we_exp1.png" > [5]
+<use  "./Imgs/fei2007we_exp1.png" > [6]
 File: ./Imgs/fei2007we_data1.png Graphic file (type QTm)
  <use  "./Imgs/fei2007we_data1.png" >
 File: ./Imgs/fei2007we_data2.png Graphic file (type QTm)
 
-<use  "./Imgs/fei2007we_data2.png" > [6]
+<use  "./Imgs/fei2007we_data2.png" > [7]
 File: ./Imgs/fei2007we_res3.png Graphic file (type QTm)
  <use  "./Imgs/fei2007we_res3.png" >
-[7]
+[8]
 File: ./Imgs/fei2007we_res4.png Graphic file (type QTm)
  <use  "./Imgs/fei2007we_res4.png" >
 Missing character: There is no ‫ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
- [8]) [9]
+ [9]) [10]
 \openout2 = `sceneUnderstanding.aux'.
 
  (./sceneUnderstanding.tex
@@ -1530,7 +1536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 [][]
  []
 
-[10
+[11
 
 
 
@@ -1577,17 +1583,17 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
 Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=parsidigits;!
-[10
+[12
 
 
-] [11]
+] [13]
 File: ./Imgs/farhadi2010every_fig1.png Graphic file (type QTm)
  <use  "./Imgs/farhadi2010every_fig1.png" >
 Overfull \hbox (25.7028pt too wide) in paragraph at lines 53--57
  [][][][][] 
  []
 
-[12]
+[14]
 File: ./Imgs/farhadi2010every_fig2.png Graphic file (type QTm)
  <use  "./Imgs/farhadi2010every_fig2.png" >
 Overfull \hbox (16.56873pt too wide) in paragraph at lines 80--83
@@ -1599,26 +1605,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--99
 [][]
  []
 
-[13]
+[15]
 File: ./Imgs/fidler2013sentence_f1.png Graphic file (type QTm)
  <use  "./Imgs/fidler2013sentence_f1.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14] [15]
+[16] [17]
 File: ./Imgs/li2007and_model.png Graphic file (type QTm)
- <use  "./Imgs/li2007and_model.png" > [16] [17] [18] [19]
+ <use  "./Imgs/li2007and_model.png" > [18] [19] [20] [21]
 File: ./Imgs/li2007and_dataset.png Graphic file (type QTm)
 
 <use  "./Imgs/li2007and_dataset.png" >
 File: ./Imgs/li2007and_confmat.png Graphic file (type QTm)
  <use  "./Imgs/li2007and_confmat.png" >
-[20]
+[22]
 File: ./Imgs/li2007and_compar.png Graphic file (type QTm)
- <use  "./Imgs/li2007and_compar.png" > [21]
+ <use  "./Imgs/li2007and_compar.png" > [23]
 File: ./Imgs/li2007and_res1.png Graphic file (type QTm)
 
-<use  "./Imgs/li2007and_res1.png" > [22] [23]
+<use  "./Imgs/li2007and_res1.png" > [24] [25]
 File: ./Imgs/karpathy2014deep_model.png Graphic file (type QTm)
 
 <use  "./Imgs/karpathy2014deep_model.png" >
@@ -1626,9 +1632,9 @@ Overfull \hbox (22.19708pt too wide) in paragraph at lines 409--410
  [][][][][] 
  []
 
-[24] [25] [26]
+[26] [27] [28]
 File: ./Imgs/karpathy20014deep_CFG.png Graphic file (type QTm)
- <use  "./Imgs/karpathy20014deep_CFG.png" > [27]
+ <use  "./Imgs/karpathy20014deep_CFG.png" > [29]
 File: ./Imgs/karpathy2014deep_res1.png Graphic file (type QTm)
 
 <use  "./Imgs/karpathy2014deep_res1.png" >
@@ -1639,7 +1645,7 @@ Overfull \hbox (5.9362pt too wide) in paragraph at lines 531--532
  [][][][][] 
  []
 
-[28]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 546--549
 [][]
  []
@@ -1649,7 +1655,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 550--551
 [][]
  []
 
-[29] [30] [31]) [32]
+[31] [32] [33]) [34]
+\openout2 = `sentenceGeneration.aux'.
+
+ (./sentenceGeneration.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1683,11 +1692,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 550--551
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
 [][]
  []
 
-[33
+[35
+
 
 
 
@@ -1724,32 +1734,174 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./main.bbl [33
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 12.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+[][]
+ []
+
+[36
 
 
 ]
-Underfull \hbox (badness 1215) in paragraph at lines 162--167
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+[][]
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+[][]
+ []
+
+[38]
+File: Imgs/sentence_knn1.png Graphic file (type QTm)
+ <use  "Imgs/sentence_knn1.png" >
+Overfull \hbox (12.05681pt too wide) in paragraph at lines 105--106
+ [][][][][] 
+ []
+
+[39] [40]
+File: Imgs/sentence_knn2.png Graphic file (type QTm)
+ <use  "Imgs/sentence_knn2.png" >
+Overfull \hbox (2.11697pt too wide) in paragraph at lines 191--192
+ [][][][][] 
+ []
+
+File: Imgs/sentence_knn3.png Graphic file (type QTm)
+<use  "Imgs/sentence_knn3.png" > [41]
+File: Imgs/sentence_knn4.png Graphic file (type QTm)
+ <use  "Imgs/sentence_knn4.png" >
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 231
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [42]
+File: Imgs/sentence_template1.png Graphic file (type QTm)
+
+<use  "Imgs/sentence_template1.png" > [43]
+File: Imgs/sentence_template2.png Graphic file (type QTm)
+
+<use  "Imgs/sentence_template2.png" >
+Overfull \hbox (15.02316pt too wide) in paragraph at lines 277--284
+ [][][] 
+ []
+
+) [44]
+Missing character: There is no e in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no x in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no i in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+Missing character: There is no t in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=parsidigits;!
+ [45
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(142.26378pt, 601.37642pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=601.37642pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=32.99379pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[][]
+ []
+
+[46
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=686.7347pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./main.bbl [47
+
+
+] [48]
+Underfull \hbox (badness 1215) in paragraph at lines 203--208
 []\EU1/lmroman10-regular(0)/m/n/12 Uijlings, Jasper RR, van de Sande, Koen EA, 
 Gevers, Theo, and Smeulders,
  []
 
-[34])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
- [35]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+ [49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
-(./sceneUnderstanding.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 107.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+(./sceneUnderstanding.aux) (./sentenceGeneration.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 25192 strings out of 493918
- 461632 string characters out of 6150563
- 549376 words of memory out of 5000000
- 28067 multiletter control sequences out of 15000+600000
- 10683 words of font info for 105 fonts, out of 8000000 for 9000
+ 25335 strings out of 493918
+ 464140 string characters out of 6150563
+ 549330 words of memory out of 5000000
+ 28187 multiletter control sequences out of 15000+600000
+ 10699 words of font info for 107 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  45i,27n,48p,10452b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (42 pages).
+Output written on main.pdf (54 pages).

@@ -26,6 +26,7 @@
 %\includeonly{sceneUnderstanding}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \newcommand{\enfootnote}[1]{\LTRfootnote{\lr{#1}}}
 
 \newcounter{mypagecount}% create a new counter
@@ -33,12 +34,12 @@
 \newenvironment{interlude}{% create a new environment for the unnumbered section(s)
 \newgeometry{top=50mm}
   \clearpage
-  \setcounter{mypagecount}{\value{page}}% use the new counter we created to hold the page count at the start of the unnumbered section
+%  \setcounter{mypagecount}{\value{page}}% use the new counter we created to hold the page count at the start of the unnumbered section
   \thispagestyle{empty}% we want this page to be empty (adjust to use a modified page style)
   \pagestyle{empty}% use the same style for subsequent pages in the unnumbered section
   }{%
   \clearpage
-  \setcounter{page}{\value{mypagecount}}% restore the incremented value to the official tally of pages so the page numbering continues correctly
+%  \setcounter{page}{\value{mypagecount}}% restore the incremented value to the official tally of pages so the page numbering continues correctly
 \newgeometry{top=20mm}
 
   }
@@ -61,6 +62,8 @@
 }
 
 \newcommand{\ML}[1]{\mathlarger{\mathlarger{#1}}}
+
+\SepMark{-}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
@@ -70,16 +73,17 @@
 %\rhead{\fancyplain{}{\rightmark }} % 1. sectionname, 1.1 subsection name etc
 %%\cfoot{\fancyplain{}{\thepage}}
 
-\pagenumbering{gobble}
+\pagenumbering{alph}
 \include{firstPage}
 \newpage
 \vfill
 \include{abstract}
 \newpage
-\pagenumbering{alph}
 \tableofcontents
 \newpage
 \listoffigures
+\newpage
+\listoftables
 
 
 \newpage
@@ -92,8 +96,8 @@
 \include{sceneUnderstanding}
 
 %\createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
-%\include{sentenceGeneration}
-%
+\include{sentenceGeneration}
+exit%
 %\createTitlePage{فصل چهارم}{ارائه نتایج}
 %\include{evaluation}
 %

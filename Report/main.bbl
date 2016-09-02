@@ -5,6 +5,15 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{reiter1997building}
+Reiter, Ehud and Dale, Robert.
+\newblock Building applied natural language generation systems.
+\newblock {\em Natural Language Engineering}, 3(01):57--87, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{fei2007we}
 Fei-Fei, Li, Iyer, Asha, Koch, Christof, and Perona, Pietro.
 \newblock What do we perceive in a glance of a real-world scene?
@@ -20,6 +29,38 @@ Li, Li-Jia and Fei-Fei, Li.
   recognition.
 \newblock  in {\em Computer Vision, 2007. ICCV 2007. IEEE 11th International
   Conference on},  pp. 1--8. IEEE, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hodosh2013framing}
+Hodosh, Micah, Young, Peter, and Hockenmaier, Julia.
+\newblock Framing image description as a ranking task: Data, models and
+  evaluation metrics.
+\newblock {\em Journal of Artificial Intelligence Research}, 47:853--899, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kuznetsova2012collective}
+Kuznetsova, Polina, Ordonez, Vicente, Berg, Alexander~C, Berg, Tamara~L, and
+  Choi, Yejin.
+\newblock Collective generation of natural image descriptions.
+\newblock  in {\em Proceedings of the 50th Annual Meeting of the Association
+  for Computational Linguistics: Long Papers-Volume 1},  pp. 359--368.
+  Association for Computational Linguistics, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gupta2012image}
+Gupta, Ankush and Mannem, Prashanth.
+\newblock From image annotation to image description.
+\newblock  in {\em International Conference on Neural Information Processing},
+  pp. 196--204. Springer, 2012.
 
 \end{LTRbibitems}
 
@@ -194,6 +235,17 @@ Karpathy, Andrej and Fei-Fei, Li.
 \newblock Deep visual-semantic alignments for generating image descriptions.
 \newblock  in {\em The IEEE Conference on Computer Vision and Pattern
   Recognition (CVPR)}, June 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lawrence1995natural}
+Lawrence, Steve, Fong, Sandiway, and Giles, C~Lee.
+\newblock Natural language grammatical inference: a comparison of recurrent
+  neural networks and machine learning methods.
+\newblock  in {\em International Joint Conference on Artificial Intelligence},
+  pp. 33--47. Springer, 1995.
 
 \end{LTRbibitems}
 

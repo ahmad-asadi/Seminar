@@ -1,19 +1,25 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces نمونه توصیف‌های افراد برای تصاویر}}{5}{figure.caption.4}
-\contentsline {figure}{\numberline {2}{\ignorespaces ساختار مطلوب اطلاعات استخراج‌شده از تصاویر\cite {fei2007we}\relax }}{5}{figure.caption.5}
-\contentsline {figure}{\numberline {3}{\ignorespaces تصاویر دنیای واقعی مورد استفاده در آزمایشات\cite {fei2007we}\relax }}{6}{figure.caption.6}
-\contentsline {figure}{\numberline {4}{\ignorespaces نمودار مقایسه‌ای عملکرد مغز در درک صحنه}}{7}{figure.caption.7}
-\contentsline {figure}{\numberline {5}{\ignorespaces نمونه‌ای از نتایج به‌دست‌آمده از آزمایشات\cite {fei2007we}\relax }}{8}{figure.caption.8}
-\contentsline {figure}{\numberline {6}{\ignorespaces نگاشت تصویر به فضای معنایی}}{12}{figure.caption.9}
-\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {چند نمونه از تصاویر در محیط باز}}}{12}{figure.caption.9}
-\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {چند نمونه از تصاویر در محیط بسته}}}{12}{figure.caption.9}
-\contentsline {figure}{\numberline {7}{\ignorespaces مدل میدان تصادفی مارکف در درک صحنه}}{13}{figure.caption.10}
-\contentsline {figure}{\numberline {8}{\ignorespaces مدل سلسله‌مراتبی میدان تصادفی شرطی در درک صحنه}}{15}{figure.caption.11}
-\contentsline {figure}{\numberline {9}{\ignorespaces مدل گرافی احتمالی مورد استفاده در پژوهش\cite {li2007and}}}{16}{figure.caption.12}
-\contentsline {figure}{\numberline {10}{\ignorespaces نمونه تصاویر موجود در مجموعه‌داده مورد استفاده. \cite {li2007and}\relax }}{20}{figure.caption.13}
-\contentsline {figure}{\numberline {11}{\ignorespaces ماتریس درهم‌ریختگی مدل کامل ارائه شده در \cite {li2007and}}}{21}{figure.caption.14}
-\contentsline {figure}{\numberline {12}{\ignorespaces نتیجه مقایسه مدل‌های مختلف در \cite {li2007and}}}{21}{figure.caption.15}
-\contentsline {figure}{\numberline {13}{\ignorespaces نتایج نهایی به‌دست آمده از مدل بر روی تصاویر. \cite {li2007and}\relax }}{22}{figure.caption.16}
-\contentsline {figure}{\numberline {14}{\ignorespaces طرح‌واره عملکرد روش \lr {RCNN}}}{25}{figure.caption.17}
-\contentsline {figure}{\numberline {15}{\ignorespaces نتایج عملکرد اهداف تعریف‌شده در روش \lr {RCNN} برای هم‌ترازسازی تصاویر و جملات}}{27}{figure.caption.18}
-\contentsline {figure}{\numberline {16}{\ignorespaces نتایج نهایی روش \lr {RCNN}}}{28}{figure.caption.19}
-\contentsline {figure}{\numberline {17}{\ignorespaces نتایج حاصل از جستجوی جملات در روش \lr {RCNN}}}{29}{figure.caption.20}
+\contentsline {figure}{\numberline {1}{\ignorespaces نمونه توصیف‌های افراد برای تصاویر}}{6}{figure.caption.5}
+\contentsline {figure}{\numberline {2}{\ignorespaces ساختار مطلوب اطلاعات استخراج‌شده از تصاویر\cite {fei2007we}\relax }}{6}{figure.caption.6}
+\contentsline {figure}{\numberline {3}{\ignorespaces تصاویر دنیای واقعی مورد استفاده در آزمایشات\cite {fei2007we}\relax }}{7}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces نمودار مقایسه‌ای عملکرد مغز در درک صحنه}}{8}{figure.caption.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces نمونه‌ای از نتایج به‌دست‌آمده از آزمایشات\cite {fei2007we}\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {6}{\ignorespaces نگاشت تصویر به فضای معنایی}}{14}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {چند نمونه از تصاویر در محیط باز}}}{14}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {چند نمونه از تصاویر در محیط بسته}}}{14}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces مدل میدان تصادفی مارکف در درک صحنه}}{15}{figure.caption.11}
+\contentsline {figure}{\numberline {8}{\ignorespaces مدل سلسله‌مراتبی میدان تصادفی شرطی در درک صحنه}}{17}{figure.caption.12}
+\contentsline {figure}{\numberline {9}{\ignorespaces مدل گرافی احتمالی مورد استفاده در پژوهش\cite {li2007and}}}{18}{figure.caption.13}
+\contentsline {figure}{\numberline {10}{\ignorespaces نمونه تصاویر موجود در مجموعه‌داده مورد استفاده. \cite {li2007and}\relax }}{22}{figure.caption.14}
+\contentsline {figure}{\numberline {11}{\ignorespaces ماتریس درهم‌ریختگی مدل کامل ارائه شده در \cite {li2007and}}}{23}{figure.caption.15}
+\contentsline {figure}{\numberline {12}{\ignorespaces نتیجه مقایسه مدل‌های مختلف در \cite {li2007and}}}{23}{figure.caption.16}
+\contentsline {figure}{\numberline {13}{\ignorespaces نتایج نهایی به‌دست آمده از مدل بر روی تصاویر. \cite {li2007and}\relax }}{24}{figure.caption.17}
+\contentsline {figure}{\numberline {14}{\ignorespaces طرح‌واره عملکرد روش \lr {RCNN}}}{27}{figure.caption.18}
+\contentsline {figure}{\numberline {15}{\ignorespaces نتایج عملکرد اهداف تعریف‌شده در روش \lr {RCNN} برای هم‌ترازسازی تصاویر و جملات}}{29}{figure.caption.19}
+\contentsline {figure}{\numberline {16}{\ignorespaces نتایج نهایی روش \lr {RCNN}}}{30}{figure.caption.20}
+\contentsline {figure}{\numberline {17}{\ignorespaces نتایج حاصل از جستجوی جملات در روش \lr {RCNN}}}{31}{figure.caption.21}
+\contentsline {figure}{\numberline {18}{\ignorespaces نتایج کیفی اختصاص جملات و تصاویر به یک‌دیگر با استفاده از روش نزدیک‌ترین همسایه \cite {hodosh2013framing}\relax }}{39}{figure.caption.22}
+\contentsline {figure}{\numberline {19}{\ignorespaces نتایج برنامه‌سازی خطی صحیح در مقایسه با جملات تولید شده انسان \cite {kuznetsova2012collective}\relax }}{41}{figure.caption.24}
+\contentsline {figure}{\numberline {20}{\ignorespaces مواردی از خروجی برنامه‌سازی خطی صحیح که نسبت به جملات انسان، برتری دارد \cite {kuznetsova2012collective}.\relax }}{41}{figure.caption.25}
+\contentsline {figure}{\numberline {21}{\ignorespaces نتایج برنامه‌سازی خطی صحیح که به لحاظ‌های مختلف دچار مشکل شده‌اند \cite {kuznetsova2012collective}.\relax }}{42}{figure.caption.26}
+\contentsline {figure}{\numberline {22}{\ignorespaces نمونه‌های صحیح از جملات تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.27}
+\contentsline {figure}{\numberline {23}{\ignorespaces نمونه‌های اشتباه تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.28}
