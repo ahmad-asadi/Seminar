@@ -5,15 +5,6 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{reiter1997building}
-Reiter, Ehud and Dale, Robert.
-\newblock Building applied natural language generation systems.
-\newblock {\em Natural Language Engineering}, 3(01):57--87, 1997.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{fei2007we}
 Fei-Fei, Li, Iyer, Asha, Koch, Christof, and Perona, Pietro.
 \newblock What do we perceive in a glance of a real-world scene?
@@ -66,6 +57,37 @@ Gupta, Ankush and Mannem, Prashanth.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{sutskever2011generating}
+Sutskever, Ilya, Martens, James, and Hinton, Geoffrey~E.
+\newblock Generating text with recurrent neural networks.
+\newblock  in {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML-11)},  pp. 1017--1024, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{karpathy2015deep}
+Karpathy, Andrej and Fei-Fei, Li.
+\newblock Deep visual-semantic alignments for generating image descriptions.
+\newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition},  pp. 3128--3137, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{xu2015show}
+Xu, Kelvin, Ba, Jimmy, Kiros, Ryan, Cho, Kyunghyun, Courville, Aaron,
+  Salakhutdinov, Ruslan, Zemel, Richard~S, and Bengio, Yoshua.
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock {\em arXiv preprint arXiv:1502.03044}, 2(3):5, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{hoiem2015guest}
 Hoiem, Derek, Hays, James, Xiao, Jianxiong, and Khosla, Aditya.
 \newblock Guest editorial: Scene understanding.
@@ -102,16 +124,6 @@ Fidler, Sanja, Sharma, Abhishek, and Urtasun, Raquel.
 \newblock A sentence is worth a thousand pixels.
 \newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
   Pattern Recognition},  pp. 1995--2002, 2013.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{karpathy2015deep}
-Karpathy, Andrej and Fei-Fei, Li.
-\newblock Deep visual-semantic alignments for generating image descriptions.
-\newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
-  Pattern Recognition},  pp. 3128--3137, 2015.
 
 \end{LTRbibitems}
 
@@ -240,12 +252,30 @@ Karpathy, Andrej and Fei-Fei, Li.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{reiter1997building}
+Reiter, Ehud and Dale, Robert.
+\newblock Building applied natural language generation systems.
+\newblock {\em Natural Language Engineering}, 3(01):57--87, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{lawrence1995natural}
 Lawrence, Steve, Fong, Sandiway, and Giles, C~Lee.
 \newblock Natural language grammatical inference: a comparison of recurrent
   neural networks and machine learning methods.
 \newblock  in {\em International Joint Conference on Artificial Intelligence},
   pp. 33--47. Springer, 1995.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{mao2014explain}
+Mao, Junhua, Xu, Wei, Yang, Yi, Wang, Jiang, and Yuille, Alan~L.
+\newblock Explain images with multimodal recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:1410.1090}, 2014.
 
 \end{LTRbibitems}
 

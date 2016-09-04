@@ -26,6 +26,7 @@
 %\includeonly{sceneUnderstanding}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
 
 \newcommand{\enfootnote}[1]{\LTRfootnote{\lr{#1}}}
 
@@ -64,6 +65,28 @@
 \newcommand{\ML}[1]{\mathlarger{\mathlarger{#1}}}
 
 \SepMark{-}
+
+ \makeatletter
+    \renewcommand\tableofcontents{%
+        \section*{\centering\contentsname
+            \@mkboth{%
+               \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+        \@starttoc{toc}%
+        }
+     \renewcommand\listoftables{%
+            \section*{\centering\listtablename}%
+              \@mkboth{%
+                  \MakeUppercase\listtablename}%
+                 {\MakeUppercase\listtablename}%
+            \@starttoc{lot}%
+            }
+    \renewcommand\listoffigures{%
+        \section*{\centering\listfigurename}%
+          \@mkboth{\MakeUppercase\listfigurename}%
+                  {\MakeUppercase\listfigurename}%
+        \@starttoc{lof}%
+        }
+\makeatother
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
@@ -97,15 +120,15 @@
 
 %\createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
 \include{sentenceGeneration}
-exit%
+%
 %\createTitlePage{فصل چهارم}{ارائه نتایج}
 %\include{evaluation}
 %
-%\createTitlePage{فصل پنجم}{جمع‌بندی و نتیجه‌گیری}
-%\include{conclusion}
+\createTitlePage{فصل چهارم}{جمع‌بندی و نتیجه‌گیری}
+\include{conclusion}
 
 
-\createTitlePage{مراجع و منابع}{}
+%\createTitlePage{مراجع و منابع}{}
 \bibliography{ref}
 \bibliographystyle{unsrt-fa.bst}
 \end{document}

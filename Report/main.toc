@@ -18,10 +18,15 @@
 \contentsline {subsection}{\numberline {2‏-‏5}جمع‌بندی}{31}{subsection.2.5}
 \contentsline {section}{\numberline {3}فصل سوم تولید جمله}{35}{section.3}
 \contentsline {subsection}{\numberline {3‏-‏1}تولید جمله}{36}{subsection.3.1}
-\contentsline {subsection}{\numberline {3‏-‏2}کاربردها\cite {reiter1997building}}{36}{subsection.3.2}
+\contentsline {subsection}{\numberline {3‏-‏2}کاربردها}{36}{subsection.3.2}
 \contentsline {subsection}{\numberline {3‏-‏3}روش‌ تولید زبان طبیعی}{37}{subsection.3.3}
 \contentsline {subsection}{\numberline {3‏-‏4}روش نزدیک‌ترین همسایه}{38}{subsection.3.4}
 \contentsline {subsection}{\numberline {3‏-‏5}استفاده از قالب‌های آماده زبانی}{42}{subsection.3.5}
 \contentsline {subsection}{\numberline {3‏-‏6}روش‌های مبتنی بر شبکه‌های عصبی بازگشتی}{44}{subsection.3.6}
-\contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{44}{subsection.3.7}
-\contentsline {section}{\numberline {4}مراجع و منابع }{46}{section.4}
+\contentsline {subsubsection}{\numberline {3‏-‏6‏-‏1}شبکه عصبی بازگشتی ضربی}{46}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3‏-‏6‏-‏2}تولید جمله با مفهوم مشخص}{48}{subsubsection.3.6.2}
+\contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{53}{subsection.3.7}
+\contentsline {section}{\numberline {4}فصل چهارم جمع‌بندی و نتیجه‌گیری}{56}{section.4}
+\contentsline {subsection}{\numberline {4‏-‏1}جمع‌بندی و نتیجه‌گیری}{57}{subsection.4.1}
+\contentsline {subsection}{\numberline {4‏-‏2}درک صحنه}{58}{subsection.4.2}
+\contentsline {subsection}{\numberline {4‏-‏3}تولید جمله}{60}{subsection.4.3}

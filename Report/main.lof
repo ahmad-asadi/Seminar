@@ -9,7 +9,7 @@
 \contentsline {figure}{\numberline {7}{\ignorespaces مدل میدان تصادفی مارکف در درک صحنه}}{15}{figure.caption.11}
 \contentsline {figure}{\numberline {8}{\ignorespaces مدل سلسله‌مراتبی میدان تصادفی شرطی در درک صحنه}}{17}{figure.caption.12}
 \contentsline {figure}{\numberline {9}{\ignorespaces مدل گرافی احتمالی مورد استفاده در پژوهش\cite {li2007and}}}{18}{figure.caption.13}
-\contentsline {figure}{\numberline {10}{\ignorespaces نمونه تصاویر موجود در مجموعه‌داده مورد استفاده. \cite {li2007and}\relax }}{22}{figure.caption.14}
+\contentsline {figure}{\numberline {10}{\ignorespaces نمونه تصاویر موجود در مجموعه‌داده مورد استفاده \cite {li2007and}\relax }}{22}{figure.caption.14}
 \contentsline {figure}{\numberline {11}{\ignorespaces ماتریس درهم‌ریختگی مدل کامل ارائه شده در \cite {li2007and}}}{23}{figure.caption.15}
 \contentsline {figure}{\numberline {12}{\ignorespaces نتیجه مقایسه مدل‌های مختلف در \cite {li2007and}}}{23}{figure.caption.16}
 \contentsline {figure}{\numberline {13}{\ignorespaces نتایج نهایی به‌دست آمده از مدل بر روی تصاویر. \cite {li2007and}\relax }}{24}{figure.caption.17}
@@ -23,3 +23,11 @@
 \contentsline {figure}{\numberline {21}{\ignorespaces نتایج برنامه‌سازی خطی صحیح که به لحاظ‌های مختلف دچار مشکل شده‌اند \cite {kuznetsova2012collective}.\relax }}{42}{figure.caption.26}
 \contentsline {figure}{\numberline {22}{\ignorespaces نمونه‌های صحیح از جملات تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.27}
 \contentsline {figure}{\numberline {23}{\ignorespaces نمونه‌های اشتباه تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.28}
+\contentsline {figure}{\numberline {24}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ضربی \cite {sutskever2011generating}\relax }}{47}{figure.caption.30}
+\contentsline {figure}{\numberline {25}{\ignorespaces هم‌ترازسازی تصویر و جمله\cite {karpathy2015deep}\relax }}{48}{figure.caption.31}
+\contentsline {figure}{\numberline {26}{\ignorespaces ارتباط بین نواحی مختلف یک تصویر و عبارات جمله\cite {karpathy2015deep}\relax }}{49}{figure.caption.32}
+\contentsline {figure}{\numberline {27}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی دوطرفه\cite {karpathy2015deep}\relax }}{50}{figure.caption.33}
+\contentsline {figure}{\numberline {28}{\ignorespaces انتساب نواحی مختلف تصویر به عبارات زبانی\cite {karpathy2015deep}\relax }}{51}{figure.caption.34}
+\contentsline {figure}{\numberline {29}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ارائه شده برا تولید جمله\cite {karpathy2015deep}\relax }}{52}{figure.caption.35}
+\contentsline {figure}{\numberline {30}{\ignorespaces نتایج رتبه‌بندی عبارات زبانی برای نواحی تصویر \cite {karpathy2015deep}\relax }}{53}{figure.caption.37}
+\contentsline {figure}{\numberline {31}{\ignorespaces نتایج تولید جمله برای تصاویر در \cite {karpathy2015deep}\relax }}{53}{figure.caption.38}
